@@ -1,41 +1,38 @@
 [
   {
     "id": 1,
-    "role": "Senior Software Development Engineer SDE - II",
-    "organisation": "Google",
-    "startDate": "Sept, 2023",
-    "endDate": "Present",
-    "location": "CA,United State",
+    "role": "Junior Programer",
+    "organisation": "IBCS Primax",
+    "startDate": "MAY, 2016",
+    "endDate": "DECEMBER, 2019",
+    "location": "Dhanmondi 10/A",
     "experiences": [
-      "Worked on Google Gmail",
-      "Worked with the Google Bard Team"
+      "Worked on BEPZA Automation Project"
     ],
-    "imageSrc": "/src/assets/company/google.png"
+    "imageSrc": "https://i.ibb.co/TvbscVD/images.png"
   },
   {
     "id": 2,
-    "role": "Software Development Engineer SDE - I",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2022",
-    "endDate": "Aug, 2023",
-    "location": "London, UK",
+    "role": "IT-Executive",
+    "organisation": "Decor IT Service Ltd",
+    "startDate": "JAN, 2020",
+    "endDate": "NOV, 2022",
+    "location": "Gulsan-1",
     "experiences": [
-      "Worked on Windows 10 terminal",
-      "Worked on Window 11 Upcoming features"
+      "Worked of ICT Project of BEPZA"
     ],
-    "imageSrc": "/src/assets/company/microsoft.png"
+    "imageSrc": "https://i.ibb.co/ZgPsFM0/302001329-469924511810735-5554455273218757831-n.png"
   },
   {
     "id": 3,
-    "role": "Software Development Engineer - Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2021",
-    "endDate": "Jun, 2022",
-    "location": "Bengluru, India",
+    "role": "Project Support Officer",
+    "organisation": "Technohaven Software Company Ltd",
+    "startDate": "DEC, 2022",
+    "endDate": "Continuing",
+    "location": "Mohakhali DOHS",
     "experiences": [
-      "Worked on Nextflix payment system",
-      "Helped to create UI for video player"
+      "Worked on ICT Project of BEPZA"
     ],
-    "imageSrc": "/src/assets/company/netflix.png"
+    "imageSrc": "https://i.ibb.co/Wkm58kS/TCL-Logo-300x82.png"
   }
 ]

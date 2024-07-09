@@ -31,10 +31,12 @@ const Home = () => {
                     <a href={resumePdf} download="Resume.pdf" className="btn btn-warning btn-outline">Download Resume</a>
                 </div>
                 {/* Right */}
-                <div className='flex justify-center items-center w-[40%] p-8'
+                <div className='flex justify-center items-center w-[40%] p-8 rounded-full'
                     data-aos='fade-up-left'
                     data-aos-duration='1000'>
-                    <img src={`/src/assets/${hero.imgSrc}`} className='h-[90%] w-[70%] rounded-full animate-superman' alt="" />
+                    <div>
+                        <img src={hero.imgSrc} className='h-[90%] w-[70%] bg-cover bg-black rounded-full border-8 animate-superman' alt="" />
+                    </div>
                 </div>
             </div>
         </>

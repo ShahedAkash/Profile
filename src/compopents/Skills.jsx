@@ -9,7 +9,7 @@ const Skills = () => {
                     skills.map(skill => <div key={skill.title} className='w-[45%] flex flex-col items-center border-[2px] border-yellow-300 p-4 mx-auto bg-[rgb(40,47,97)] rounded-lg' style={{ boxShadow: '5px 5px 10px 10px rgba(101, 175, 10, 0.5)' }}
                         data-aos='flip-left'
                         data-aos-duration='1000'>
-                        <img className='w-[85%] p-4' src={`/src/assets/${skill.imageSrc}`} alt="" />
+                        <img className='w-[85%] p-4' src={skill.imageSrc} alt="" />
                         <h1 className='font-bold'>{skill.title}</h1>
                     </div>)
                 }

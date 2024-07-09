@@ -1,38 +1,36 @@
 [
   {
     "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "imageSrc": "https://i.ibb.co/t3K4sYH/html.png"
   },
   {
     "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "imageSrc": "https://i.ibb.co/qWb5f3t/css.png"
   },
   {
     "title": "JavaScript",
-    "imageSrc": "skills/javascript.png"
+    "imageSrc": "https://i.ibb.co/18nHX8R/javascript.png"
   },
   {
     "title": "React",
-    "imageSrc": "skills/react.png"
+    "imageSrc": "https://i.ibb.co/Lp5LZZw/react.png"
   },
   {
-    "title": "Node",
-    "imageSrc": "skills/node.png"
+    "title": "Tailwind",
+    "imageSrc": "https://i.ibb.co/f0NXQX6/images-1.png"
   },
   {
     "title":"Firebase",
-    "imageSrc":"skills/firebase.png"
-  },
-  {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "imageSrc":"https://i.ibb.co/58FSQQf/firebase.png"
   },
   {
     "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
-  },
-  {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "imageSrc": "https://i.ibb.co/fxSY3vD/mongodb.png"
   }
 ]
+
+
+
+
+
+
